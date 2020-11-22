@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest7.3(iter).cpp
+B:\Унік\Алгоритмізація та програмування\Лекція 7\Lab7.3(iter)\Lab7.3(iter).cpp(111): warning C4715: matrixFirstPlus: значение возвращается не при всех путях выполнения
+     Создается библиотека B:\Унік\Алгоритмізація та програмування\Лекція 7\Lab7.3(iter)\Debug\UnitTest7.3(iter).lib и объект B:\Унік\Алгоритмізація та програмування\Лекція 7\Lab7.3(iter)\Debug\UnitTest7.3(iter).exp
+  UnitTest7.3(iter).vcxproj -> B:\Унік\Алгоритмізація та програмування\Лекція 7\Lab7.3(iter)\Debug\UnitTest7.3(iter).dll
